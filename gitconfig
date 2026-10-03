@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 82781116+mchistya@users.noreply.github.com
+	name = Marie Chistyakova
